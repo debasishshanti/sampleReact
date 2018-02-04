@@ -45,6 +45,7 @@
 }
 .cart-container .product-details-container {
     height: 250px;
+    overflow: auto;
 }
 .cart-container .product-details .remove-product {
     margin-bottom: 10px;
