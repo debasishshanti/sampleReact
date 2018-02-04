@@ -1,0 +1,28 @@
+.button-holder {
+    padding: 20px 10px 0;
+    font-size: 12px;
+}
+.button-holder span {
+    border-top: 1px solid silver;
+    border-bottom: 1px solid silver;
+    background: #88C132;
+    padding: 5px;
+    color: white;
+    margin: 0 2px;
+}
+
+.button-holder .subtract {
+    background-color: #d40514;
+}
+
+.button-holder .add:before,
+.button-holder .subtract:before {
+    font-family: 'icomoon';
+    font-size: 80%;
+}
+.button-holder .add:before {
+    content: "\ea0a";
+}
+.button-holder .subtract:before {
+    content: "\ea0b";
+}

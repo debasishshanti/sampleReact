@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "brand": "MTR",
+            "id": "mtr-Pulao-Masala-100",
+            "name": "Pulao Masala",
+            "detail": "100gm pouch",
+            "cost": 75,
+            "image": "https://hosakart.com/wp-content/uploads/2016/11/mtr-pulao-masala-100g.jpg"
+        },
+        {
+            "brand": "TASTE MORE",
+            "id": "tm-Puliogare-paste",
+            "name": "Puliogare paste",
+            "detail": "200gm pouch",
+            "cost": 60,
+            "image": "http://tastesmore.in/media/catalog/product/cache/1/image/600x600/9df78eab33525d08d6e5fb8d27136e95/2/0/200g_mrp_rs60.jpg"
+        },
+        {
+            "brand": "MDH",
+            "id": "mdh-Garam-Masala",
+            "name": "Garam Masala-50",
+            "detail": "50gm carton",
+            "cost": 37,
+            "image": "https://www.waangoo.com/content/images/thumbs/0014115_mdh-garam-masala_600.jpeg"
+        },
+        {
+            "brand": "Everest",
+            "id": "everest-Chicken-Masala-100",
+            "name": "Chicken Masala",
+            "detail": "100gm carton",
+            "cost": 70,
+            "image": "http://doononlinestore.in/image/catalog/everest/1426064116EVEREST%20CHICKEN%20MASALA%20(50G,100G).jpg"
+        },
+        {
+            "brand": "Catch",
+            "id": "catch-Chat-Masala-100",
+            "name": "Magic Chat Masala",
+            "detail": "100gm tin",
+            "cost": 55,
+            "image": "http://images-cdn.azureedge.net/azure/in-resources/dc9d44f8-61bf-4a88-b20e-c878f6f6151e/Images/ProductImages/Source/4984.jpg;width=600"
+        }
+    ]
+}

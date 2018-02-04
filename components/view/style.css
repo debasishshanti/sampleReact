@@ -1,0 +1,25 @@
+.product-dashboard {
+    width: 100%;
+    display: inline-block;
+}
+.product-page .page-title {
+    padding-left: 10px;
+}
+.product-dashboard .product-list,
+.product-dashboard .cart-container {
+    float: left
+}
+.product-dashboard .product-list {
+    display: flex;
+    flex-wrap: wrap;
+    width: 60%;
+}
+.product-dashboard .cart-container {
+    width: 40%;
+}
+.product-dashboard .product-card-container {
+    width: 33%;
+    float: left;
+    padding: 20px 10px;
+    box-sizing: border-box;
+}
