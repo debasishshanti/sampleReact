@@ -18,5 +18,7 @@ Then open the page in [localhost:8080](http://localhost:8080/)
 ## Future Improvements
 
 -Implement Responsive view( currently view is for desktop only)
+
 -implement Login and server side session
+
 -Improve Visuals
